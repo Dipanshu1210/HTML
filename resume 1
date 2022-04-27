@@ -1,0 +1,261 @@
+
+<html>
+
+<head>
+    <link rel="stylesheet" href="rfile.css">
+</head>
+
+<body style="background-color:skyblue;">
+    <div1>
+        <table border="5" height="100px" width="200px">
+            <tr>
+
+                <td>
+                    <p style="color:darkblue;font-size:20px;"> NAME</p>
+                </td>
+                <td style="padding:10px">
+                    <p style="color:solid black;font-size:20px;"> DIPANSHU</p>
+                </td>
+                <div>
+                </div>
+            </tr>
+            <tr>
+                <td>
+                    <p style="color:darkblue;font-size:20px;">ADDRESS</p>
+                </td>
+                <td style="padding:10px">
+                    <p style="color:solid black;font-size:20px;">Vill - Raja Ka Majhola, Post - Bahjoi, Dist -
+                        Sambhal</p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <p style="color:darkblue;font-size:20px;">E-Mail</p>
+                </td>
+                <td style="padding:10px"><u>
+                        <p style="color:solid black;font-size:20px;">dipanshuvarshney62@gmail.com</p>
+                    </u></td>
+            </tr>
+            <tr>
+                <td>
+                    <p style="color:darkblue;font-size:20px;">Phone no</p>
+                </td>
+                <td>
+                    <p style="color:solid black;font-size:20px;"> 6396046423</p>
+                </td>
+            </tr>
+        </table>
+
+        <h1 style="color:red;font-size:40px;">
+            <u>Objective</u>
+        </h1>
+        <p style="border:2px solid black;font-size:20px;">To secure a position challenging as a public relation in order
+            to utilize my
+            administrative, inter personl skills with the accuracy and contribute <br> significantly in the goverment
+            run programs and attrain the career targets
+        </p>
+
+        <h1 style="color:red;font-size:40px;">
+            <u>Professional Qualifications</u>
+        </h1>
+        <table border="1">
+            <tr>
+                <th>
+                    <p style="color:darkblue;font-size:20px;">Course/Degree</p>
+                </th>
+                <th>
+                    <p style="color:darkblue;font-size:20px;">College</p>
+                </th>
+                <th>
+                    <p style="color:darkblue;font-size:20px;">University</p>
+                </th>
+                <th>
+                    <p style="color:darkblue;font-size:20px;">Year Of Passing</p>
+                </th>
+                <th>
+                    <p style="color:darkblue;font-size:20px;">Division/Percentage/Grade</p>
+                </th>
+            </tr>
+            <td>
+                <p style="font-size:20px;">MCA</p>
+            </td>
+            <td>
+                <p style="font-size:20px;"></p>KIET Group Of Institutions Ghaziabad
+            </td>
+            <td>
+                <p style="font-size:20px;">AKTU</p>
+            </td>
+            <td>
+                <p style="font-size:20px;">Pursuing</p>
+            </td>
+            <td>
+                <p style="font-size:20px;">Pursuing</p>
+            </td>
+            </tr>
+            <tr>
+                <td>
+                    <p style="font-size:20px;">BCA</p>
+                </td>
+                <td>
+                    <p style="font-size:20px;">Shri Krishna Institute Of Management and Science Chandausi</p>
+                </td>
+                <td>
+                    <p style="font-size:20px;">MJPRU</p>
+                </td>
+                <td>
+                    <p style="font-size:20px;">2021</p>
+                </td>
+                <td>
+                    <p style="font-size:20px;">67.04</p>
+                </td>
+            </tr>
+        </table>
+        <h1 style="color:red;font-size:40px;">
+            <u>EDUCATION QUALIFICATIONS</u>
+        </h1>
+        <table border="1">
+            <tr>
+                <th>
+                    <p style="color:darkblue;font-size:20px;">Class</p>
+                </th>
+                <th>
+                    <p style="color:darkblue;font-size:20px;">College</p>
+                </th>
+                <th>
+                    <p style="color:darkblue;font-size:20px;">Board</p>
+                </th>
+                <th>
+                    <p style="color:darkblue;font-size:20px;">Year Of Passing</p>
+                </th>
+                <th>
+                    <p style="color:darkblue;font-size:20px;">Division/Percentage/Grade</p>
+                </th>
+            </tr>
+            <td>
+                <tr>
+                    <td>
+                        <p style="font-size:20px;">12th</p>
+                    </td>
+                    <td>
+                        <p style=font-size:20px;">Gov. Inter College Lahravan Bahjoi (SAMBHAL)</p>
+                    </td>
+                    <td>
+                        <p style="font-size:20px;">UP</p>
+                    </td>
+                    <td>
+                        <p style="font-size:20px;">2016</p>
+                    </td>
+                    <td>
+                        <p style="font-size:20px;">55.08</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p style="font-size:20px;">10th</p>
+                    </td>
+                    <td>
+                        <p style="font-size:20px;"> Gov. Highest School Lahravan Bahjoi (SAMBHAL)</p>
+                    </td>
+                    <td>
+                        <p style="font-size:20px;">UP</p>
+                    </td>
+                    <td>
+                        <p style="font-size:20px;">2016</p>
+                    </td>
+                    <td>
+                        <p style="font-size:20px;">70.05</p>
+                    </td>
+                </tr>
+        </table>
+        <h1 style="color:red;font-size:40px;">
+            <u>Hobbies</u>
+        </h1>
+        <ul>
+            <li>
+                <p style="font-size:20px;">Playing Cricket</p>
+            </li>
+            <li>
+                <p style="font-size:20px;">Watching Movie</p>
+            </li>
+        </ul>
+        <h1 style="color:red;font-size:40px;">
+            <u>Strength</u>
+        </h1>
+        <ul>
+            <li>
+                <p style="font-size:20px;">Self Motivated</p>
+            </li>
+            <li>
+                <p style="font-size:20px;">Hard Working</p>
+            </li>
+            <li>
+                <p style="font-size:20px;">Friendly</p>
+            </li>
+        </ul>
+        <h1 style="color:red;font-size:40px;">
+            <u>Personal Details</u>
+        </h1>
+        <div2 class="size">
+            <table>
+                <tr>
+                    <td>
+                        <p style="color:darkblue;font-size:20px;">Gender</p>
+                    </td>
+                    <td style="padding:10px">
+                        <p style="font-size:20px;">:Male</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p style="color:darkblue;font-size:20px;">Father's Name</p>
+                    </td>
+                    <td style="padding:10px">
+                        <p style="font-size:20px;">:Mr. Praveen Kumar</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p style="color:darkblue;font-size:20px;">DOB</p>
+                    </td>
+                    <td style="padding:10px">
+                        <p style="font-size:20px;">:12/10/2001</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p style="color:darkblue;font-size:20px;">Marrital Status</p>
+                    </td>
+                    <td style="padding:10px">
+                        <p style="font-size:20px;">:Unmarried</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p style="color:darkblue;font-size:20px;">Nationality</p>
+                    </td>
+                    <td style="padding:10px">
+                        <p style="font-size:20px;">:Indian</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p style="color:darkblue;font-size:20px;">Religious</p>
+                    </td>
+                    <td style="padding:10px">
+                        <p style="font-size:20px;">:Hindu</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p style="color:darkblue;font-size:20px;">Language</p>
+                    </td>
+                    <td style="padding:10px">
+                        <p style="font-size:20px;">:Hindi & English</p>
+                    </td>
+                </tr>
+            </table>
+        </div2>
+        </div>
+</body>
+
+</html>
